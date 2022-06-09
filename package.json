@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.3"
+  },
+  "dependencies": {
+    "@layui/layui-vue": "^1.1.5",
+    "@pinia/nuxt": "^0.1.8",
+    "node-sass": "^7.0.1",
+    "pinia": "^2.0.11",
+    "pinia-plugin-persistedstate": "^1.5.1",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0"
+  }
+}
